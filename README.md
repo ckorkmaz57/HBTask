@@ -3,10 +3,10 @@ TO-DOs mobile test automation
 
 Otomasyonu yapılan caseler:
 
-1-Listeye ekleme yapılması(AddToDoList)
-2-Listedeki taskın silinmesi(DeleteTask)
-3-Listedeki taskın güncellenmesi(UpdateToDo)	
-4-Taskın işaretlenmesi(MarkedCompleteTask)
+- Listeye ekleme yapılması(AddToDoList)
+- Listedeki taskın silinmesi(DeleteTask)
+- Listedeki taskın güncellenmesi(UpdateToDo)	
+- Taskın işaretlenmesi(MarkedCompleteTask)
 
 Caseler içerisinde yorum olarak yapılan işlemler adım adım belirtilmiştir. 
 
